@@ -68,4 +68,4 @@ The elevator provides feedback solely by lighting up the LED in the middle of th
 
 **Come with your design for the touch screen? What is the screen size that you want?**
 
-I would like a large touch screen, preferable around 8.5 by 11 inches *(The same size as a sheet of notebook paper)*. 
+I would like a large touch screen, preferable around 8.5 by 11 inches. *(The same size as a sheet of notebook paper)*
