@@ -7,6 +7,10 @@ Homework one for Human Computer Interaction
 
 My chosen elevator is located in the file *ElevatorinAction.gif* or you can follow [this link](https://github.com/apape97/HCI-Homework1/blob/master/ElevatorinAction.gif). 
 
+It is also shown below: 
+
+![ElevatorinAction](https://github.com/apape97/HCI-Homework1/blob/master/ElevatorinAction.gif). 
+
 **Find issues with the current design:**
 
 1. There are a lot of keys that can be turned to make the elevator inoperable. 
