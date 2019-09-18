@@ -77,9 +77,13 @@ The elevator provides feedback solely by lighting up the LED in the middle of th
 
 The idea for my elevator is to place it in a building where each guest has their own floor and there is no reason for them to travel to a different floor, as that belongs to someone else. Therefore, a simple solution would be to have the guests hold their keycard/phone with NFC Chip embedded, which will be used to verify the guest and send the elevator to their floor. 
 
-My sketch for the home screen can be found [here](https://raw.githubusercontent.com/apape97/HCI-Homework1/master/HomeScreen.png). 
+My sketch for the home screen can be found [here](https://raw.githubusercontent.com/apape97/HCI-Homework1/master/HomeScreen.png). It can also be viewed below. 
 
-My sketch for the traveling screen that shows after a user has been verified can be found [here](https://raw.githubusercontent.com/apape97/HCI-Homework1/master/TravelingScreen.png). 
+![HomeScreen](https://raw.githubusercontent.com/apape97/HCI-Homework1/master/HomeScreen.png) 
+
+My sketch for the traveling screen that shows after a user has been verified can be found [here](https://raw.githubusercontent.com/apape97/HCI-Homework1/master/TravelingScreen.png). It can also be viewed below. 
+
+![TravelingScreen](https://raw.githubusercontent.com/apape97/HCI-Homework1/master/TravelingScreen.png) 
 
 This idea works well for the environment that my imaginary elevator is located in: a place where there's nowhere else to go except the specific location and allows for directions to be displayed on screen for the guest. 
 
