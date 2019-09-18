@@ -3,13 +3,22 @@ Homework one for Human Computer Interaction
 
 # Questions for C Grade
 
-**Find an elevator, take photos of the interface, and show a gif image of the interface in operation.**
+**Find an Elevator**
+
+**Take photos of the control interface**
+
+You can either find photos of the interface here or here, or you can view them below.
+
+![Photo](Link) 
+
+
+**Show a gif of the control interface in operation**
 
 My chosen elevator is located in the file *ElevatorinAction.gif* or you can follow [this link](https://github.com/apape97/HCI-Homework1/blob/master/ElevatorinAction.gif). 
 
 It is also shown below: 
 
-![ElevatorinAction](https://github.com/apape97/HCI-Homework1/blob/master/ElevatorinAction.gif). 
+![ElevatorinAction](https://github.com/apape97/HCI-Homework1/blob/master/ElevatorinAction.gif)
 
 **Find issues with the current design:**
 
@@ -79,3 +88,25 @@ This idea works well for the environment that my imaginary elevator is located i
 **Come with your design for the touch screen? What is the screen size that you want?**
 
 I would like a large touch screen, preferable around 8.5 by 11 inches. *(The same size as a sheet of notebook paper)*
+
+**Design and implement interactive features** 
+
+Please see the program itself at this link for [Macs] and [PCs]. 
+
+The main interactive feature is the ability to hold up a keycard (by clicking the circle for this example) and the elevator will go to your floor. 
+
+**Design and implement user feedback** 
+
+Please see the program with the links at the answer immediately before this one. 
+
+Available user feedback features include a countdown timer until you reach your destination. 
+
+**You can use any tools...**
+
+This project was created using Processing. 
+
+# Extra Credits
+
+**You may get extra credit if: your design supports people with disabilities**
+
+One helpful feature is commands being spoken for guests who are blind. 
