@@ -18,7 +18,7 @@ My chosen elevator is located in the file *ElevatorinAction.gif* or you can foll
 
 It is also shown below: 
 
-![ElevatorinAction](https://github.com/apape97/HCI-Homework1/blob/master/ElevatorinAction.gif)
+![ElevatorinAction](ElevatorinAction.gif)
 
 **Find issues with the current design:**
 
