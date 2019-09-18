@@ -1,4 +1,4 @@
-# HCI-Homework1
+# HW1.1.Arnold
 Homework one for Human Computer Interaction
 
 # Questions for C Grade
