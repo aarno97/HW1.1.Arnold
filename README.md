@@ -9,7 +9,8 @@ Homework one for Human Computer Interaction
 
 You can either find photos of the interface here or here, or you can view them below.
 
-![Photo](https://raw.githubusercontent.com/apape97/HW1.1.Arnold/master/IMG_3095.jpeg) ![Photo2](https://raw.githubusercontent.com/apape97/HW1.1.Arnold/master/IMG_3096.jpeg)
+![Photo](https://raw.githubusercontent.com/apape97/HW1.1.Arnold/master/IMG_3095.jpeg) 
+![Photo2](https://raw.githubusercontent.com/apape97/HW1.1.Arnold/master/IMG_3096.jpeg)
 
 
 **Show a gif of the control interface in operation**
