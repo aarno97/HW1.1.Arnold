@@ -9,7 +9,7 @@ Homework one for Human Computer Interaction
 
 You can either find photos of the interface here or here, or you can view them below.
 
-![Photo](Link) 
+![Photo](https://raw.githubusercontent.com/apape97/HW1.1.Arnold/master/IMG_3095.jpeg) ![Photo2](https://raw.githubusercontent.com/apape97/HW1.1.Arnold/master/IMG_3096.jpeg)
 
 
 **Show a gif of the control interface in operation**
@@ -97,7 +97,7 @@ I would like a large touch screen, preferable around 8.5 by 11 inches. *(The sam
 
 **Design and implement interactive features** 
 
-Please see the program itself at this link for [Macs](https://github.com/apape97/HW1.1.Arnold/blob/master/HCI_Homework1_AaronA.app.zip) and [PCs]. 
+Please see the program itself at this link for [Macs](https://github.com/apape97/HW1.1.Arnold/blob/master/HCI_Homework1_AaronA.app.zip) and [PCs](https://github.com/apape97/HW1.1.Arnold/blob/master/HCI_Homework1_AaronA.exe). 
 
 The main interactive feature is the ability to hold up a keycard (by clicking the circle for this example) and the elevator will go to your floor. 
 
