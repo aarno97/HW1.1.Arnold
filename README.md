@@ -1,8 +1,6 @@
 # HW1.1.Arnold
 Homework one for Human Computer Interaction
 
-The Mac App can be downloaded from my file sharing service as GitHub does not allow uploads over 100Mb and the file is a little over 200. Please visit [this link](https://www.icloud.com/iclouddrive/03M8MvtftGkZHrbDkMNQ5ZNDQ#HCI%5FHomework1%5FAaronA); 
-
 # Questions for C Grade
 
 **Find an Elevator**
@@ -99,7 +97,7 @@ I would like a large touch screen, preferable around 8.5 by 11 inches. *(The sam
 
 **Design and implement interactive features** 
 
-Please see the program itself at this link for [Macs](https://www.icloud.com/iclouddrive/03M8MvtftGkZHrbDkMNQ5ZNDQ#HCI%5FHomework1%5FAaronA) and [PCs]. 
+Please see the program itself at this link for [Macs](https://github.com/apape97/HW1.1.Arnold/blob/master/HCI_Homework1_AaronA.app.zip) and [PCs]. 
 
 The main interactive feature is the ability to hold up a keycard (by clicking the circle for this example) and the elevator will go to your floor. 
 
