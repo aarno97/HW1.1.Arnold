@@ -77,6 +77,8 @@ The elevator provides feedback solely by lighting up the LED in the middle of th
 
 **Suggest the improvements to make on the control interface. Sketch your solution. Justify your design decisions.**
 
+*Sketches were made previously to making the final product the correct width for the project, therefore, the final project is horizonal vs. the vertical idea the pictures give off.* 
+
 The idea for my elevator is to place it in a building where each guest has their own floor and there is no reason for them to travel to a different floor, as that belongs to someone else. Therefore, a simple solution would be to have the guests hold their keycard/phone with NFC Chip embedded, which will be used to verify the guest and send the elevator to their floor. 
 
 My sketch for the home screen can be found [here](https://raw.githubusercontent.com/apape97/HCI-Homework1/master/HomeScreen.png). It can also be viewed below. 
